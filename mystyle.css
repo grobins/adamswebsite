@@ -1,0 +1,14 @@
+#container{
+  display: block;
+  width: 100%;
+}
+
+#myStory{
+  width: 80%;
+  margin:auto;
+
+}
+h1{
+  color: blue
+
+}
